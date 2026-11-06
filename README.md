@@ -241,4 +241,4 @@ This repository serves as the official landing page for Gems 3D. The software is
 **Get the most recent version of Gems 3D today!**
 
 ---
-**Last updated:** 2026-11-05 19:40:41 UTC
+**Last updated:** 2026-11-06 00:49:48 UTC
